@@ -4,10 +4,10 @@
 **Senior Software Engineer** · Hyderabad, India  
 Building full-stack systems that scale — and measuring success in business outcomes, not just shipped features.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-chandubobbili.dev-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chandubobbili.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chandu-bobbili-15863319b)
-[![Resume](https://img.shields.io/badge/Resume-Download-1f6feb?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1zhpAwC_QXOsiDV4zdq7Dbn0GF-DPsMKa/view?usp=drivesdk)
-[![Email](https://img.shields.io/badge/Email-chandubobbili12@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandubobbili12@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chandubobbili.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chandu-bobbili-15863319b)
+[![Resume](https://img.shields.io/badge/Resume?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1zhpAwC_QXOsiDV4zdq7Dbn0GF-DPsMKa/view?usp=drivesdk)
+[![Email](https://img.shields.io/badge/Email?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandubobbili12@gmail.com)
 
 ---
 
