@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Chandu Bobbili
+# I'm Chandu Bobbili
 
 ### 🚀 Senior Software Engineer · Hyderabad, India
 
@@ -35,78 +35,71 @@ Helped retain **5+ enterprise accounts**
 
 ---
 
-# ⚡ Tech Stack
+## 🛠️ Tech Stack
 
-## Languages
+### Languages
 
-![TypeScript](https://img.shields.io/badge/TypeScript-EEF2FF?style=flat&logo=typescript)
-![Go](https://img.shields.io/badge/Go-E0F7FA?style=flat&logo=go)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFF8DC?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/Python-EFF6FF?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/HTML5-FFF1F2?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-DBEAFE?style=flat&logo=css3)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-## Frontend
+### Frontend
 
-![React](https://img.shields.io/badge/React-E0F2FE?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-F3F4F6?style=flat&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-ECFEFF?style=flat&logo=tailwindcss)
-![Webflow](https://img.shields.io/badge/Webflow-EEF2FF?style=flat&logo=webflow)
-![TanStack](https://img.shields.io/badge/TanStack-FEF2F2?style=flat&logo=reactquery)
-![Zustand](https://img.shields.io/badge/Zustand-State-FFEFD5?style=flat)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-F9FAFB?style=flat)
-![Vitest](https://img.shields.io/badge/Vitest-F0FDF4?style=flat&logo=vitest)
-![Playwright](https://img.shields.io/badge/Playwright-DCFCE7?style=flat&logo=playwright)
+![React](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-146EF5?logo=webflow&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-State%20Management-orange)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?logo=shadcnui&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
 
-## Backend & Messaging
+### Backend & Messaging
 
-![Microservices](https://img.shields.io/badge/Microservices-Architecture-F5F3FF?style=flat)
-![REST APIs](https://img.shields.io/badge/REST_APIs-EFF6FF?style=flat)
-![Node.js](https://img.shields.io/badge/Node.js-F0FDF4?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-F9FAFB?style=flat&logo=express)
-![WebSockets](https://img.shields.io/badge/WebSockets-Real_Time-E0F2FE?style=flat)
-![SSE](https://img.shields.io/badge/SSE-Streaming-ECFEFF?style=flat)
-![BFF](https://img.shields.io/badge/BFF_Pattern-API-FEF3C7?style=flat)
-![Kafka](https://img.shields.io/badge/Kafka-F3F4F6?style=flat&logo=apachekafka)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-purple)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?logo=socket.io&logoColor=white)
+![SSE](https://img.shields.io/badge/Server_Sent_Events-blue)
+![BFF Pattern](https://img.shields.io/badge/BFF_Pattern-Backend_For_Frontend-cyan)
+![Kafka](https://img.shields.io/badge/Kafka-000000?logo=apachekafka&logoColor=white)
 
----
+### Databases
 
-## 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?logo=clickhouse&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database-blue)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EFF6FF?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-F0FDF4?style=flat&logo=mongodb)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FEF9C3?style=flat&logo=clickhouse)
-![Redis](https://img.shields.io/badge/Redis-FEF2F2?style=flat&logo=redis)
-![SQL](https://img.shields.io/badge/SQL-Database-DBEAFE?style=flat)
+### DevOps & Cloud
 
----
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes_GKE-326CE5?logo=kubernetes&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-## ☁️ DevOps & Cloud
+### Other
 
-![Docker](https://img.shields.io/badge/Docker-E0F2FE?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes_GKE-EEF2FF?style=flat&logo=kubernetes)
-![GCP](https://img.shields.io/badge/GCP-EFF6FF?style=flat&logo=googlecloud)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-F9FAFB?style=flat&logo=githubactions)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FEF2F2?style=flat&logo=gitlab)
-![Git](https://img.shields.io/badge/Git-FFF7ED?style=flat&logo=git)
-
----
-
-## 🧩 Other
-
-![System Design](https://img.shields.io/badge/System_Design-Architecture-F5F3FF?style=flat)
-![JWT](https://img.shields.io/badge/JWT-Authentication-F3F4F6?style=flat)
-![OAuth](https://img.shields.io/badge/OAuth-Security-EFF6FF?style=flat)
-![Figma](https://img.shields.io/badge/Figma-Design-FDF2F8?style=flat&logo=figma)
-![Web APIs](https://img.shields.io/badge/Web_APIs-E0F2FE?style=flat)
-![DSA](https://img.shields.io/badge/DSA-Problem_Solving-DCFCE7?style=flat)
+![System Design](https://img.shields.io/badge/System_Design-Architecture-purple)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-Authentication-blue)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Web APIs](https://img.shields.io/badge/Web_APIs-02569B)
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-green)
 
 ---
 
-# 🌟 Featured Projects
+## ✨ Featured Projects
 
-## ✨ ZenithUI
-
+### ZenithUI
 Open-source React component library built for modern applications.
 🔹 TypeScript-first  
 🔹 Tree-shakeable  
@@ -115,18 +108,20 @@ Open-source React component library built for modern applications.
 
 [![npm](https://img.shields.io/npm/dw/@zenithui/day-picker?style=flat)](https://www.npmjs.com/package/@zenithui/day-picker)
 [![GitHub Stars](https://img.shields.io/github/stars/ChanduBobbili/ZenithUI?style=flat)](https://github.com/ChanduBobbili/ZenithUi)
+[![docs](https://img.shields.io/badge/docs-zenithui.chandubobbili.dev-34D399?style=flat)](https://zenithui.chandubobbili.dev)
 
 ---
 
-## ⚙️ changesetgoo
+### changesetgoo
 
 A lightweight Go CLI for semantic versioning and changelog automation.
-✨ Single binary  
-✨ Fast execution  
-✨ No Node.js runtime required
+- Single binary  
+- Fast execution  
+- No Node.js runtime required
 
 [![GitHub Stars](https://img.shields.io/github/stars/ChanduBobbili/changesetgoo?style=flat)](https://github.com/ChanduBobbili/changesetgoo)
+[![go report](https://goreportcard.com/badge/github.com/ChanduBobbili/changesetgoo)](https://goreportcard.com/report/github.com/ChanduBobbili/changesetgoo)
 
 ---
 
-> ✨ "Great engineering merges elegant code with real-world impact."
+> "Great engineering merges elegant code with real-world impact."
