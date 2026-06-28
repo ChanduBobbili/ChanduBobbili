@@ -6,7 +6,7 @@ I build **scalable full-stack systems** with a focus on performance, developer e
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-8B5CF6?style=flat&logoColor=white)](https://chandubobbili.dev)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/chandu-bobbili-15863319b)
-[![Resume](https://img.shields.io/badge/📄_Resume-View-22C55E?style=flat&logoColor=white)](https://drive.google.com/file/d/1zhpAwC_QXOsiDV4zdq7Dbn0GF-DPsMKa/view?usp=drivesdk)
+[![Resume](https://img.shields.io/badge/📄_Resume-View-22C55E?style=flat&logoColor=white)](https://drive.google.com/file/d/14b4OH_lvkH16t8mxcyPsc2Cl3BJ8CkeG/view?usp=drive_link)
 [![Email](https://img.shields.io/badge/✉️_Email-Say_Hi-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:chandubobbili12@gmail.com)
 [![Dev.to](https://img.shields.io/badge/✍️_Dev.to-Blogs-111827?style=flat&logo=devdotto&logoColor=white)](https://dev.to/chandu_bobbili_06)
 
