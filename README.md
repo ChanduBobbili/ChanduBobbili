@@ -6,32 +6,8 @@ I build **scalable full-stack systems** with a focus on performance, developer e
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-8B5CF6?style=flat&logoColor=white)](https://chandubobbili.dev)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/chandu-bobbili-15863319b)
-[![Resume](https://img.shields.io/badge/📄_Resume-View-22C55E?style=flat&logoColor=white)](https://drive.google.com/file/d/14b4OH_lvkH16t8mxcyPsc2Cl3BJ8CkeG/view?usp=drive_link)
 [![Email](https://img.shields.io/badge/✉️_Email-Say_Hi-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:chandubobbili12@gmail.com)
 [![Dev.to](https://img.shields.io/badge/✍️_Dev.to-Blogs-111827?style=flat&logo=devdotto&logoColor=white)](https://dev.to/chandu_bobbili_06)
-
----
-
-## 🌱 About Me
-
-I'm a software engineer who loves turning complex problems into simple, reliable systems.
-
-Currently building at **Deepta AI**, where I've contributed to:
-
-Handling **1M+ events/sec**  
-Supporting platforms used by **20,000+ students across 4 universities**  
-Processing **4,000+ fee renewals**  
-Reducing applicant processing time from **15 → 8 hours**
-
-Previously at **Apxor**, I helped migrate and modernize dashboards:
-
-Lighthouse score improved **54 → 97**  
-Helped retain **5+ enterprise accounts**
-
-<br/>
-
-**Currently:** Senior SDE @ Deepta AI  
-**Exploring:** Full-time · Remote · Relocation opportunities
 
 ---
 
@@ -120,7 +96,7 @@ A lightweight Go CLI for semantic versioning and changelog automation.
 - No Node.js runtime required
 
 [![GitHub Stars](https://img.shields.io/github/stars/ChanduBobbili/changesetgoo?style=flat)](https://github.com/ChanduBobbili/changesetgoo)
-[![go report](https://goreportcard.com/badge/github.com/ChanduBobbili/changesetgoo)](https://goreportcard.com/report/github.com/ChanduBobbili/changesetgoo)
+[![Go Reference](https://pkg.go.dev/badge/github.com/ChanduBobbili/changesetgoo.svg)](https://pkg.go.dev/github.com/ChanduBobbili/changesetgoo)
 
 ---
 
